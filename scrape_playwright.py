@@ -8,9 +8,6 @@ import time
 
 
 
-
-
-
 BASE_URL = "https://bellingham.craigslist.org/search/apa"
 MAX_PAGES = 1
 DELAY_SEC = 0.5
