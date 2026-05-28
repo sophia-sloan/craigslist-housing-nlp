@@ -1,0 +1,7 @@
+bs4
+lxml
+httpx
+time
+json
+urllib.request
+re
